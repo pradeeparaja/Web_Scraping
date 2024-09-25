@@ -6,9 +6,6 @@
 - [Technologies Used](#technologies-used)
 - [Data Source](#data-source)
 - [Data Extraction](#data-extraction)
-- [Data Cleaning and Processing](#data-cleaning-and-processing)
-- [Data Structure](#data-structure)
-- [Conclusion](#conclusion)
 
 ## What is Web Scraping? 🤖
 Web scraping is the process of automatically extracting information from websites. It involves fetching a web page and parsing its content to retrieve specific data points, which can then be stored, analyzed, or utilized for various purposes. Web scraping is commonly used for data collection in fields like market research, data analysis, and machine learning.
